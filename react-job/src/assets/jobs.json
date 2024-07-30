@@ -83,20 +83,6 @@
         "contactEmail": "mooonn@gmail.com",
         "contactPhone": "08234323214"
       }
-    },
-    {
-      "id": "7be0",
-      "title": "h",
-      "type": "Full-Time",
-      "location": "l",
-      "description": "j",
-      "salary": "Under $50K",
-      "company": {
-        "name": "j",
-        "description": "i",
-        "contactEmail": "hagmza@gmail.com",
-        "contactPhone": "k"
-      }
     }
   ]
 }
